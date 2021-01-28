@@ -1,4 +1,3 @@
-Test
 # Azure function based Let's Encrypt automation
 
 Automatically issue Let's Encrypt SSL certificates for all your custom domain names in Azure.
