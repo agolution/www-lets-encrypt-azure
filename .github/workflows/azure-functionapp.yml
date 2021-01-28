@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: PROD-WEBSITES
+  ResourceGroup: PROD-WEBSITE
 jobs:
   build:
     runs-on: ubuntu-latest
