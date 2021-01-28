@@ -31,7 +31,7 @@ The resourcegroup name used in Azure is also used for storage account, app insig
 
 Additionally you must set the `AZURE_CREDENTIALS` secret on your github repository.
 
-Follow the instructions at [Configure azure credentials](https://github.com/marketplace/actions/azure-login#configure-azure-credentials) to generate them, then go to `your repository -> settings -> Secrets` and add the `AZURE_CREDENTIALS` secret.
+Follow the instructions at [Configure azure credentials](https://github.com/marketplace/actions/azure-login#configure-deployment-credentials) to generate them, then go to `your repository -> settings -> Secrets` and add the `AZURE_CREDENTIALS` secret.
 
 The modified pipeline should now execute successfully in your account.
 
